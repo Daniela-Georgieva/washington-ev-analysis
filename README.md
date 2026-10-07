@@ -2,6 +2,8 @@
 
 This project looks at electric vehicle registrations in Washington State using both Power BI and Python. The goal was to better understand what types of EVs are registered, where most EVs are located, and how electric range has changed over the years.
 
+![Power BI dashboard](dashboard.png)
+
 ## Project Overview
 
 The project has two main parts:
